@@ -301,3 +301,19 @@ justify-content: space-evenly;
         grid-column: span 4;
     }
 }
+
+/* Formulario */
+
+.formulario__container{
+    margin-top: 25px;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-group{
+    margin-top: 12px;
+    font-family: sans-serif;
+    font-size: 3dvh;
+    width: 100dvw; 
+}
+
